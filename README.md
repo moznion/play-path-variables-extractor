@@ -1,4 +1,4 @@
-# play-path-variables-extractor
+# play-path-variables-extractor [![Build Status](https://travis-ci.org/moznion/play-path-variables-extractor.svg?branch=master)](https://travis-ci.org/moznion/play-path-variables-extractor)
 
 A path extractor of routing pattern for Play framework.
 
